@@ -1,10 +1,9 @@
 #include<stdio.h>
 int main()
 {
-    printf("hello world\n");
+    printf("hello sruthi\n");
     int n;
     printf("enter a number: ");
     scanf("\n%d",&n);
-    return 0;
+    retrun 0;
 }
-//
