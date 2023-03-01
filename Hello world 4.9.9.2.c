@@ -7,3 +7,4 @@ int main()
     scanf("\n%d",&n);
     return 0;
 }
+//
